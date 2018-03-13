@@ -28,7 +28,7 @@ gensim==0.13.3
 
   You can split the raw dataset by yourself. In our demo, we use the 80% as training dataset and 20% as testing dataset. The detail of dataset division can see the paper and the code.
  
-  You can run the main function to see the resluts.
+  You can run the main function to see the resluts and predict the essential proteins.
  
 # Citation
 
