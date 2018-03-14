@@ -24,7 +24,7 @@ gensim==0.13.3
 
   2. protein_matrix.npy is the gene expression data and we reshape it to 5297 proteins x 3 cycles x 12 time points.
 
-  3. protein_matrix.npy is the labels of proteins(1:essential proteins and 0: non-essential proteins)
+  3. protein_matrix.npy is the labels of proteins (1:essential proteins and 0: non-essential proteins).
 
   You can split the raw dataset by yourself. In our demo, we use the 80% as training dataset and 20% as testing dataset. The detail of dataset division can see the paper and the code.
  
