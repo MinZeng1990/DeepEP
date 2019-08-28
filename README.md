@@ -31,6 +31,7 @@ gensim==0.13.3
   You can run the main function to see the resluts and predict the essential proteins.
  
 # Citation
+Zeng, M., Li, M., Fei, Z., Wu, F. X., Li, Y., & Pan, Y. (2018, December). A deep learning framework for identifying essential proteins based on protein-protein interaction network and gene expression data. In 2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (pp. 583-588). IEEE.
 
 # License
 This project is licensed under the MIT License - see the LICENSE.txt file for details
