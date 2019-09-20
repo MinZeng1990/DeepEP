@@ -33,5 +33,7 @@ gensim==0.13.3
 # Citation
 Zeng, M., Li, M., Fei, Z., Wu, F. X., Li, Y., & Pan, Y. (2018, December). A deep learning framework for identifying essential proteins based on protein-protein interaction network and gene expression data. In 2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (pp. 583-588). IEEE.
 
+Zeng, M., Li, M., Wu, F. X., Li, Y., & Pan, Y. DeepEP: a deep learning framework for identifying essential proteins. BMC Bioinformatics, 2019. DOI: 10.1186/s12859-019-3076-y
+
 # License
 This project is licensed under the MIT License - see the LICENSE.txt file for details
